@@ -1,0 +1,16 @@
+
+
+Changing the JDK of a project:
+
+CMD + ; (Project Settings)
+
+Modules
+Select the project you wish to change in the center panel.
+Select an appropriate JDK in the right panel under Module SDK: 
+	(use the pull down menue_
+
+Click Apply/OK
+
+Changes made for 01_04 are in 
+/Users/marco/IdeaProjects/01_04/src/com/example/testsample
+
