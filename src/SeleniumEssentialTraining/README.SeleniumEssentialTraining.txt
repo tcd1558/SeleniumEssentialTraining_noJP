@@ -14,10 +14,11 @@ Right click the project and select 'Reload from Disk'
 org.openqa.selenium.* 
 Add all jar files with 
 	Highlight the Project (01_04)
-	File > Project Structure (or CMD + ;)
+	File > Project Structure (or CMD+;)
 	Project Setting > Libraries > click on the '+' in the middle pannel
 	New Project Library > Java
-	For all *.jar files, select them, click on [open], click on [ok]
+	An explorer window pops up. Navigate to selenium-java
+	Select all *.jar libs/*.jar files, click on [open], click on [ok]
 	When all of them are listed, click on [ok]
 
 Click on the green run triangle 
